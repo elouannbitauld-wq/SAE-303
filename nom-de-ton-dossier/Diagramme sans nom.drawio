@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="-b3f4PY0pssyLNEn1vJE">
-    <mxGraphModel dx="4506" dy="3173" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3688" dy="2727" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
         <mxCell id="wGYHru4u3hBDrBWZQJM9-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Gi0/1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;10.0.1.18/30&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="1110" y="1160" as="geometry" />
         </mxCell>
-        <mxCell id="wGYHru4u3hBDrBWZQJM9-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Gi0/0&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;10.0.1.6/30&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="wGYHru4u3hBDrBWZQJM9-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Gi4/0&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;10.0.1.6/30&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="1060" y="970" as="geometry" />
         </mxCell>
         <mxCell id="wGYHru4u3hBDrBWZQJM9-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Gi0/1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;10.0.1.5/30&lt;/font&gt;&lt;/div&gt;" vertex="1">
@@ -303,7 +303,7 @@
         <mxCell id="1AkcGkHt43wi0AADvJN0-118" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Gi1/0&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;10.0.2.5/30&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="20" y="950" as="geometry" />
         </mxCell>
-        <mxCell id="rE8PIkT0J6Sp4mnQPsY4-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Gi0/2&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;10.0.2.13/30&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="rE8PIkT0J6Sp4mnQPsY4-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;Gi2/0&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;10.0.2.13/30&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="140" x="1260" y="1000" as="geometry" />
         </mxCell>
         <mxCell id="rE8PIkT0J6Sp4mnQPsY4-19" edge="1" parent="1" source="ler5KkQRgqWBqc8tEwDL-4" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="rE8PIkT0J6Sp4mnQPsY4-15" value="">
